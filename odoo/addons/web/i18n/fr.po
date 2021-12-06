@@ -3264,8 +3264,8 @@ msgstr "Créé avec %s%s"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "Propulsé par <span>Odoo</span>"
+msgid "Powered by <span>ABCD</span>"
+msgstr "Propulsé par <span>ABCD</span>"
 
 #. module: web
 #. openerp-web
